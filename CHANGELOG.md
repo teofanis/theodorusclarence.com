@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/theodorusclarence/theodorusclarence.com/compare/v3.1.0...v3.2.0) (2023-02-19)
+
+
+### Features
+
+* **blog:** add quote to 2022-retrospective ([8cd1c50](https://github.com/theodorusclarence/theodorusclarence.com/commit/8cd1c501272e9043ef2430f860f3612b856c0493))
+* **blog:** typo in nextjs-fetch-method ([a61a470](https://github.com/theodorusclarence/theodorusclarence.com/commit/a61a470138ed9fcb2220e3c2d6a8499332ac79f8))
+* update SubscribeCard to substack ([0b9a7d1](https://github.com/theodorusclarence/theodorusclarence.com/commit/0b9a7d10a3ef7cc8afb3d4c3487ce251c6e62d44))
+* use env for umami ([a0be831](https://github.com/theodorusclarence/theodorusclarence.com/commit/a0be8311e3fbc8cb774eb2c9d995c9990d49b9d0))
+
 ## [3.1.0](https://github.com/theodorusclarence/theodorusclarence.com/compare/v3.0.0...v3.1.0) (2023-01-01)
 
 
